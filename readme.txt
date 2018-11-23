@@ -1,4 +1,7 @@
+Workflow of receiving Mailchimp access_token using OAuth2
+
 Instruction to get access_token
+
 1). replace [client_id], [client_secret], [redirect_uri] in 'application.properties' file with actual values of your MailChimp registered application
 
 2). Run RunApp.main method of this application;
